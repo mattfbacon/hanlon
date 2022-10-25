@@ -1,0 +1,8 @@
+{"components":[
+	[{"x":0,"y":0},{"_type":"emitter","direction":"up"}],
+	[{"x":0,"y":-2},{"_type":"alternator"}],
+	[{"x":2,"y":-2},{"_type":"guitar"}],
+	[{"x":-2,"y":-2},{"_type":"increment_pitch"}],
+	[{"x":-4,"y":-2},{"_type":"guitar"}],
+	[{"x":0,"y":-4},{"_type":"debug"}]
+],"tempo":120,"pellets":[]}
