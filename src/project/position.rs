@@ -1,5 +1,5 @@
-use serde::{Deserialize, Serialize};
 use egui::Vec2;
+use serde::{Deserialize, Serialize};
 
 use super::Direction;
 
@@ -27,4 +27,3 @@ impl From<Position> for Vec2 {
 		}
 	}
 }
-
